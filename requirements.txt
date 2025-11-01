@@ -1,0 +1,5 @@
+streamlit
+plotly
+fredapi
+pandas
+requests
